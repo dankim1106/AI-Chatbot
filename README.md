@@ -10,6 +10,7 @@
 └───────────────────────────────────────────────┘
 ```
 To run the AI ChatBot natively, press the following link: https://pf.kakao.com/_BjXdb/chat
+
 (KakaoTalk, a widely used Korean chat service system, is required)
 
 # goormIDE
