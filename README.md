@@ -9,6 +9,7 @@
 			     🌩 𝘼𝙣𝙮𝙤𝙣𝙚 𝙘𝙖𝙣 𝙙𝙚𝙫𝙚𝙡𝙤𝙥!
 └───────────────────────────────────────────────┘
 ```
+To run the AI ChatBot natively, press the following link: https://pf.kakao.com/_BjXdb/chat
 
 # goormIDE
 Welcome to goormIDE!
@@ -16,7 +17,6 @@ Welcome to goormIDE!
 goormIDE is a powerful cloud IDE service to maximize productivity for developers and teams.  
 **DEVELOP WITH EXCELLENCE**  
 
-`Happy coding! The goormIDE team`
 
 
 ## 🔧 Tip & Guide
