@@ -13,6 +13,13 @@ To run the AI ChatBot natively, press the following link: https://pf.kakao.com/_
 
 (KakaoTalk, a widely used Korean chat service system, is required)
 
+To connect to the root@goorm:/workspace/life_ass type the following in the terminal: 
+
+SSH	22	15.164.55.228	53781	
+
+ssh -p 53781 root@15.164.55.228
+
+
 # goormIDE
 Welcome to goormIDE!
 
